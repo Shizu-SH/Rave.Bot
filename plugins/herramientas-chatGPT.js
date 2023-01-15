@@ -9,5 +9,5 @@ m.reply(`${hasil.result}`.trim())
 } catch {
 throw `*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾`
 }}
-handler.command = ['openai', 'chatgpt', 'ia', 'robot']
+handler.command = ['openai', 'chatgpt', 'ia', 'robot', 'rave', 'Rave']
 export default handler
