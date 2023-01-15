@@ -1,3 +1,4 @@
+/*
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 let handler  = async (m, { conn }) => {
 let texto = `
@@ -33,3 +34,4 @@ conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id, mentions: [m.s
 }
 handler.command = /^(instalarbot)/i
 export default handler
+*/
