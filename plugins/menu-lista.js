@@ -10,6 +10,15 @@ let time = d.toLocaleTimeString(locale, {
       second: 'numeric'
     }) 
 let _uptime = process.uptime() * 1000
+let datcov = await fetch('https://latam-api.vercel.app/api/covid19?apikey=nekosmic&q=world');
+	let CovidApi = await datcov.json();
+	var cotext = `┏「 DATOS - COVID19 」┓
+┃➲ Nuevo Bot
+┃✯ Espero les guste
+┃❥ UwU
+┃By: [🌩️] Shizu-Hub [🌩️]
+┃ᏒᏗᏉᏋ ᏰᎧᏖ
+┗─━─━「 🌎 」━─━─┛\n\n`
 let uptime = clockString(_uptime) 
 let totalreg = Object.keys(global.db.data.users).length
 let rtotalreg = Object.values(global.db.data.users).filter(user => user.registered == true).length
