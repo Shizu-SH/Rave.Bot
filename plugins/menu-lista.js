@@ -12,7 +12,7 @@ let time = d.toLocaleTimeString(locale, {
 let _uptime = process.uptime() * 1000
 let datcov = await fetch('https://latam-api.vercel.app/api/covid19?apikey=nekosmic&q=world');
 	let CovidApi = await datcov.json();
-	var cotext = `┏「 DATOS - COVID19 」┓
+	var cotext = `┏「 ᏒᏗᏉᏋ ᏰᎧᏖ 」┓
 ┃➲ Nuevo Bot
 ┃✯ Espero les guste
 ┃❥ UwU
