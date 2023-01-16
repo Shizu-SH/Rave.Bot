@@ -1,3 +1,4 @@
+
 let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isROwner }) => {
 const sections = [
 {
@@ -86,7 +87,7 @@ if (!isOwner) {
 global.dfail('group', m, conn)
 throw false
 }
-} else if (!isAdmin) {
+} else if (!(isAdmin || isOwner || isROwner)) {
 global.dfail('admin', m, conn)
 throw false
 }
