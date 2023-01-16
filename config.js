@@ -51,8 +51,8 @@ global.APIKeys = {
 }
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
+global.imagen2 = fs.readFileSync('./Menu2.jpg') 
+global.imagen3 = fs.readFileSync('./Menu.png')
 global.imagen4 = fs.readFileSync('./Menu.png')
 
 global.mods = [] 
@@ -420,7 +420,7 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`
+global.wm2 = `▸ ${dia} ${fecha}\n▸ འąѵҽ-ҍօէ`
 global.gt = 'ᏒᏗᏉᏋ ᏰᎧᏖ'
 global.mysticbot = 'ᏒᏗᏉᏋ ᏰᎧᏖ'
 global.md = 'https://github.com/Shizu-SH/Rave.Bot'
