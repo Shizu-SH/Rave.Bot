@@ -32,7 +32,7 @@ let buttons = [
 //{ buttonId: '#terminosycondiciones', buttonText: { displayText: '📋 𝚃𝙴𝚁𝙼𝙸𝙽𝙾𝚂 𝚈 𝙲𝙾𝙽𝙳𝙸𝙲𝙸𝙾𝙽𝙴𝚂 📋' }, type: 1 }]
 { buttonId: '#redes', buttonText: { displayText: '<INSTAGRAM>' }, type: 1 }]
 let buttonMessage = {
-image: pp,
+image: imagen4,
 caption: str.trim(),
 mentions: [m.sender],
 footer: `*${wm}*`,
