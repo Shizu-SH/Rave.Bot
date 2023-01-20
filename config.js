@@ -448,6 +448,56 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('America/Los_Angeles').forma
 global.fgif = {key: { participant : '0@s.whatsapp.net'}, message: { "videoMessage": { "title": wm, "h": `Hmm`, 'seconds': '999999999',  'gifPlayback': 'true',  'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu.png')}}}
 global.multiplier = 99
 //*************************
+//PRUEBA
+global.nna = 'https://chat.whatsapp.com/GVpCEF1uofp3f056e0REPw' //UPDATE GATABOT
+global.nna2 = 'GVpCEF1uofp3f056e0REPw'
+
+global.nn = 'https://chat.whatsapp.com/IMLJNUdNXUH2cANoAFDfKU' //Grupo 1
+
+global.nnn = 'https://chat.whatsapp.com/HevYeF6rImG1dLRNZ3JxZt' //Grupo 2
+
+global.nnnt = 'https://chat.whatsapp.com/Dxd9UqOD2wQ21m65tKa4hu' //Grupo 3
+
+global.nnntt = 'https://chat.whatsapp.com/DpRy9SL7hlqG0sc3ZWjU7N' //Grupo 4
+
+global.nnnttt = 'https://chat.whatsapp.com/L8SmHSDSPyDEGgXO7WCegv' //Grupo 5
+
+global.nnnttt2 = 'https://chat.whatsapp.com/LCdrJR1h1sA1lwashY3vh4' //Grupo 6 COL
+
+global.nnnttt3 = 'https://chat.whatsapp.com/JP4QqKe7P5oFmn41Vsv2on' //Grupo 7 COL
+
+global.paypal = 'https://paypal.me/OficialGD'
+
+global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+
+
+//⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
+
+global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
+global.resultado = rg
+
+global.ag = '╰⊱⚠️⊱ *𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 | 𝙒𝘼𝙍𝙉𝙄𝙉𝙂* ⊱⚠️⊱╮\n\n'
+global.advertencia = ag
+
+global.iig = '╰⊱❕⊱ *𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊́𝙉 | 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉* ⊱⊱╮\n\n'
+global.informacion = iig
+
+global.fg = '╰⊱❌⊱ *𝙁𝘼𝙇𝙇𝙊́ | 𝙀𝙍𝙍𝙊𝙍* ⊱❌⊱╮\n\n'
+global.fallo = fg
+
+global.mg = '╰⊱❗️⊱ *𝙇𝙊 𝙐𝙎𝙊́ 𝙈𝘼𝙇 | 𝙐𝙎𝙀𝘿 𝙄𝙏 𝙒𝙍𝙊𝙉𝙂* ⊱❗️⊱╮\n\n'
+global.mal = mg
+
+global.eeg = '╰⊱📩⊱ *𝙍𝙀𝙋𝙊𝙍𝙏𝙀 | 𝙍𝙀𝙋𝙊𝙍𝙏* ⊱📩⊱╮\n\n'
+global.envio = eeg
+
+global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ⊱💚⊱╮\n\n'
+global.exito = eg
+
+//𝙀𝙅𝙀𝙈𝙋𝙇𝙊 | 𝙀𝙓𝘼𝙈𝙋𝙇𝙀
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
