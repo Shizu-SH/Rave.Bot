@@ -47,7 +47,7 @@ mediaUrl: null,
 title: '👑𝓘𝓝𝓢𝓣𝓐𝓖𝓡𝓐𝓜👑',
 body: null,
 thumbnail: img,
-sourceUrl: `https://www.instagram.com/shizu.shop`
+sourceUrl: `https://www.instagram.com/shizu.sh0p`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
